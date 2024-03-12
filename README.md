@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dominikalmann
+- 👋 Hi, I’m Domi.
 - 👀 I’m interested in learning. I love to learn about all sorts of things!
 - 🌱 I’m currently learning Python for Data Science.
 - 💞️ I’m looking to collaborate on anything and everything.
